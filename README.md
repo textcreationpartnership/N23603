@@ -1,0 +1,329 @@
+#The Christian's pocket library, by John Stanford. M.A. ; Vol. I.#
+The Christian's pocket library, by John Stanford. M.A. ; Vol. I.
+
+##General Summary##
+
+**Links**
+
+[TCP catalogue](http://www.ota.ox.ac.uk/tcp/)  • 
+[HTML](http://tei.it.ox.ac.uk/tcp/Texts-HTML/free/N23/N23603.html)  • 
+[EPUB](http://tei.it.ox.ac.uk/tcp/Texts-EPUB/free/N23/N23603.epub)
+
+**Availability**
+
+This keyboarded and encoded edition of the
+	       work described above is co-owned by the institutions
+	       providing financial support to the Early English Books
+	       Online Text Creation Partnership. This Phase I text is
+	       available for reuse, according to the terms of Creative
+	       Commons 0 1.0 Universal. The text can be copied,
+	       modified, distributed and performed, even for
+	       commercial purposes, all without asking permission.
+
+**Major revisions**
+
+1. __2006-07__ __TCP__ *Assigned for keying and markup*
+1. __2006-08__ __SPi Global (Manila)__ *Keyed and coded from Readex/Newsbank page images*
+1. __2007-06__ __Olivia Bottum__ *Sampled and proofread*
+1. __2007-06__ __Olivia Bottum__ *Text and markup reviewed and edited*
+1. __2008-02__ __pfs.__ *Batch review (QC) and XML conversion*
+
+##Content Summary##
+
+#####Front#####
+〈1 paragraph〉
+1. PREFACE.
+
+1. Explanation of the VIGNETTE upon the Title Page.
+
+#####Body#####
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. I.—Vol. I.
+
+    _ ON HAPPINESS
+
+    _ MEMORIAL Of the Lord's Viſitation to the CITY OF NEW-YORK, by a malignant Fever, which ſwept away, by death, ſeven hundred and forty-ſix Inhabitants, from the 26th of July till the 5th of November, 1795.
+
+    _ A DAY'S WORK AT SEA MORALIZED
+
+    _ AN INSTANCE OF THE POWER OF DIVINE GRACE.
+
+    _ NATURAL HISTORY.
+
+      * THE EAGLE.
+
+      * IMPROVEMENT.
+
+    _ DIALOGUE Between a Father and his Son.
+
+    _ AN EXTRACT.
+
+    _ TO WALK WITH GOD.
+
+    _ POETRY.
+
+      * FOR NEW-YEAR's DAY.
+
+      * ON THE CITY's RESTORATION FROM SICKNESS.
+
+      * THE SPIDER AND TOAD.
+
+      * An obvious CONCLUSION from the CIRCUMSTANCE of ST. PETER's IMPRISONMENT and RELEASE. Acts xii.
+
+      * AN HYMN OF PRAISE TO JESUS.
+
+    _ OBITUARY.
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. II.—VOL. I.
+
+    _ AN ESSAY ON JUSTIFICATION.
+
+    _ DIALOGUE Between a Father and his Son. [Continued from page 33.]
+
+    _ The Life of the late Reverend and learned AUGUSTUS MONTAGUE TOPLADY, M. A. Vicar of Broad Hembury, in Devonſhire, Great-Britain.
+
+    _ NATURAL HISTORY.
+
+    _ A REMARKABLE DREAM OF THE LATE DR. DODDRIDGE.
+
+    _ RESIGNATION.
+
+    _ POETRY.
+
+      * FELICITY ALONE IN CHRIST.
+
+      * ON THE XIXth PSALM.
+
+      * ODE UPON CHRIST's CRUCIFIXION. FROM THE GREEK.
+
+      * SOMETHING NEW.
+
+      * On the Death of Miss REBECCA MOULDER.
+
+    _ OBITUARY. Philadelphia—[Inserted by desire.]
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. III.—VOL. I.
+
+    _ AN ESSAY On the Influence of Grace upon the Soul of Man.
+
+    _ A PRESERVATION.
+
+    _ The Life of the late Reverend and learned AUGUSTUS MONTAGUE TOPLADY, M. A. Vicar of Broad Hembury, in Devonſhire, Great-Britain. (Continued from page 72, and concluded.)
+
+    _ MORNING's INTERVIEW Between Deacon Ridly and Colonel Sharpleſs, New-Jerſey.
+
+    _ THE SLOTHFUL WORSHIPER ADMONISHED.
+
+    _ THE REFLECTION.
+
+    _ THE DOCTOR's MISTAKE.
+
+    _ DIALOGUE Between a Father and his Son. [Continued from page 66, and concluded.]
+
+    _ POPULATION.
+
+    _ ON BEING AWOKE FROM SLEEP BY A STORM.
+
+    _ THE BOOK-STEALER.
+
+    _ SELECT SENTENCES.
+
+    _ ON THE LOVE OF CHRIST. In a Letter to the Right Hon. Lady Frances Shirley, by the late Rev. James Hervey.
+
+    _ A WORD IN SEASON.
+
+    _ OBSERVATION.
+
+    _ POETRY.
+
+      * ODE ON THE HOLY TRINITY.
+
+      * PIOUS ASPIRATION.
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. IV.—VOL. I.
+
+    _ AN ESSAY ON LOVE TO GOD.
+
+    _ THE FIGHTING PRELATE.
+
+    _ DIFFERENCE BETWEEN REGENERATION AND CONVERSION.
+
+    _ ANECDOTE OF THE LATE KING OF SWEDEN.
+
+    _ QUESTIONS NECESSARY FOR MINISTERS.
+
+    _ A SINGULAR INSTANCE OF CONVERSION.
+
+    _ FEMALE DOMESTIC EDUCATION.
+
+    _ SPECIMEN OF A DIARY.
+
+      * MONDAY MORNING.
+
+      * NOON.
+
+      * EVENING.
+
+    _ ANECDOTE.
+
+    _ NATURAL HISTORY.
+
+      *  THE FOX.
+
+      * IMPROVEMENT.
+
+    _ POETRY.
+
+      * TO A LADY, ON SEEING HER CLOSET.
+
+      * THE GLORY OF CHRIST.
+
+      * SPRING IMPROVED.
+
+      * THE PENITENT RESTORED.
+
+    _ OBITUARY.
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. V.—VOL. I.
+
+    _ AN ESSAY ON CHRISTIAN EXPERIENCE.
+
+    _ THE RELIEF.
+
+    _ THE BENEVOLENCE OF GOD In concealing from Man the Knowledge of future Events of Time.
+
+    _ THE INDIAN.
+
+    _ PLEASING REFLECTION.
+
+    _ NATURAL HISTORY.
+
+    _ THE AFFLICTED MOTHER.
+
+    _ THE REVOLTING CHRISTIAN.
+
+    _ Dialogue between a Mother and her Daughter. (Continued from page 169.)
+
+    _ POETRY.
+
+      * HOPE OF RESTORATION.
+
+      * ON PSALM XLII.
+
+      * WRITTEN IN A GARDEN.
+
+1. THE CHRISTIAN's POCKET LIBRARY. No. VI.—VOL. I.
+
+    _ AN ESSAY ON THE VIRTUES OF FAITH.
+
+    _ Dialogue between a Mother and her Daughter. (Continued from page 230, and concluded.)
+
+    _ THE MINISTER's PRAYER-BOOK.
+
+    _ NATURAL HISTORY.
+
+    _ OF THE DIAMOND IT IS SAID,
+
+    _ THE REVOLTING CHRISTIAN RESTORED.
+
+    _ POETRY.
+
+      * THE FOUNTAIN.
+
+      * POETIC DESCRIPTION of the VIGNETTE upon the TITLE PAGE.
+
+#####Back#####
+
+1. INDEX TO VOL. I.
+
+**Types of content**
+
+  * There are 1060 **verse** lines!
+  * There are 97 **drama** parts! This is **prose drama**.
+  * Oh, Mr. Jourdain, there is **prose** in there!
+
+There are 102 **ommitted** fragments! 
+ @__reason__ (102) : illegible (99), foreign (3)  •  @__resp__ (99) : #PDCC (99)  •  @__extent__ (99) : 1 paragraph (1), 1 word (13), 1 span (9), 1 letter (60), 2 letters (13), 3 letters (3)
+
+**Character listing**
+
+
+|Text|string(s)|codepoint(s)|
+|---|---|---|
+|Latin-1 Supplement|âë|226 235|
+|Latin Extended-A|ſ|383|
+|General Punctuation|—…•|8212 8230 8226|
+|Geometric Shapes|◊▪|9674 9642|
+|CJKSymbolsandPunctuation|〈〉|12296 12297|
+
+##Tag Usage Summary##
+
+###Header Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__author__|4||
+|2.|__availability__|1||
+|3.|__biblFull__|1||
+|4.|__change__|5||
+|5.|__date__|7| @__when__ (1) : 2008-09 (1)|
+|6.|__editorialDecl__|1||
+|7.|__extent__|2||
+|8.|__idno__|6| @__type__ (6) : DLPS (1), TCP (1), STC (1), NOTIS (1), IMAGE-SET (1), EVANS-CITATION (1)|
+|9.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|10.|__label__|5||
+|11.|__langUsage__|1||
+|12.|__language__|1| @__ident__ (1) : eng (1)|
+|13.|__listPrefixDef__|1||
+|14.|__note__|6||
+|15.|__notesStmt__|2||
+|16.|__p__|11||
+|17.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|18.|__projectDesc__|1||
+|19.|__pubPlace__|2||
+|20.|__publicationStmt__|2||
+|21.|__publisher__|2||
+|22.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|23.|__seriesStmt__|1||
+|24.|__sourceDesc__|1||
+|25.|__term__|2||
+|26.|__textClass__|1||
+|27.|__title__|3||
+|28.|__titleStmt__|2||
+
+
+###Text Tag Usage###
+
+|No|element name|occ|attributes|
+|---|---|---|---|
+|1.|__abbr__|1||
+|2.|__argument__|1||
+|3.|__bibl__|27||
+|4.|__body__|2||
+|5.|__byline__|4||
+|6.|__closer__|4||
+|7.|__date__|3||
+|8.|__dateline__|3||
+|9.|__desc__|102||
+|10.|__div__|102| @__type__ (102) : illustration (1), title_page (1), preface (1), explanation_of_illustration (1), number (6), essay (20), anecdote (13), description_of_bird (1), improvement (2), dialogue (6), extract (1), instructions (1), poems (6), poem (22), obituary (3), biography (2), account_of_dream (1), interview (1), admonition (1), sentences (1), letter (1), observation (1), list_of_questions (1), diary (1), diary_entry (3), description_of_animal (1), reflection (1), interpretation (1), index (1)  •  @__n__ (6) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1)|
+|11.|__epigraph__|15||
+|12.|__figure__|7||
+|13.|__floatingText__|2| @__type__ (2) : letter (2)|
+|14.|__g__|946| @__ref__ (946) : char:EOLhyphen (933), char:punc (10), char:EOLunhyphen (3)|
+|15.|__gap__|102| @__reason__ (102) : illegible (99), foreign (3)  •  @__resp__ (99) : #PDCC (99)  •  @__extent__ (99) : 1 paragraph (1), 1 word (13), 1 span (9), 1 letter (60), 2 letters (13), 3 letters (3)|
+|16.|__head__|110| @__type__ (5) : sub (5)|
+|17.|__hi__|952||
+|18.|__item__|70||
+|19.|__l__|1060||
+|20.|__lg__|127||
+|21.|__list__|1||
+|22.|__note__|4| @__n__ (4) : * (4)  •  @__place__ (4) : bottom (4)|
+|23.|__opener__|2||
+|24.|__p__|355| @__n__ (44) : 1 (7), 2 (8), 3 (8), 4 (6), 5 (5), 6 (3), 7 (3), 8 (2), 9 (1), 10 (1)|
+|25.|__pb__|290| @__facs__ (290) : tcp:031228_0000_0FEB7363478C4040 (1), tcp:031228_0001_0FEAF85F65D91A28 (1), tcp:031228_0002_0FEAF86301E92E78 (1), tcp:031228_0003_0FEAF8ADF5B06A50 (1), tcp:031228_0004_0FEB733345BF5BF8 (1), tcp:031228_0005_0FEB7334D2354CF8 (1), tcp:031228_0006_0FEB733B24506EB8 (1), tcp:031228_0007_0FEB733CAEBA14F8 (1), tcp:031228_0008_0FEB733E693CAFB8 (1), tcp:031228_0009_0FEB734193BA2FA8 (1), tcp:031228_0010_0FEB7344C66F27E0 (1), tcp:031228_0011_0FEB734B16ECB2B8 (1), tcp:031228_0012_0FEB734D00520FD0 (1), tcp:031228_0013_0FEB734E8C1765E0 (1), tcp:031228_0014_0FEB7354DF54B4C8 (1), tcp:031228_0015_0FEB73566A8548D0 (1), tcp:031228_0016_0FEB73583A38D0D0 (1), tcp:031228_0017_0FEB735B6528E4C8 (1), tcp:031228_0018_0FEB7361B95546D0 (1), tcp:031228_0019_0FEAF85D5AC3E5F0 (1), tcp:031228_0020_0FEB7365320918E8 (1), tcp:031228_0021_0FEB7369E5A11A38 (1), tcp:031228_0022_0FEB736B6F8A2698 (1), tcp:031228_0023_0FEB736CF89029E0 (1), tcp:031228_0024_0FEB7373B33C5D10 (1), tcp:031228_0025_0FEB73757B5B7EE0 (1), tcp:031228_0026_0FEB737BD1A41530 (1), tcp:031228_0027_0FEB737D5C5D71B0 (1), tcp:031228_0028_0FEB73808027E2F0 (1), tcp:031228_0029_0FEB7383F7FFFBB8 (1), tcp:031228_0030_0FEB7385870BD928 (1), tcp:031228_0031_0FEB738BEA492648 (1), tcp:031228_0032_0FEB738DD4826590 (1), tcp:031228_0033_0FEB738F6057B190 (1), tcp:031228_0034_0FEB73928DD89DE0 (1), tcp:031228_0035_0FEB7398DF164C38 (1), tcp:031228_0036_0FEB739A6B256900 (1), tcp:031228_0037_0FEB739BF799B808 (1), tcp:031228_0038_0FEB739F26421528 (1), tcp:031228_0039_0FEB73A579080960 (1), tcp:031228_0040_0FEB73A735B71940 (1), tcp:031228_0041_0FEB73A8C5FCF968 (1), tcp:031228_0042_0FEB73AF149E5200 (1), tcp:031228_0043_0FEB73B09D12B020 (1), tcp:031228_0044_0FEB73B4115B40A8 (1), tcp:031228_0045_0FEB73B5C16B7EB0 (1), tcp:031228_0046_0FEB73BC111E04E0 (1), tcp:031228_0047_0FEB73BD9AC702D0 (1), tcp:031228_0048_0FEB73BF280CA7B0 (1), tcp:031228_0049_0FEB73C4161E79C0 (1), tcp:031228_0050_0FEB73C8D06FF648 (1), tcp:031228_0051_0FEB73CA5B9B71A0 (1), tcp:031228_0052_0FEB73CD836648F8 (1), tcp:031228_0053_0FEB73CF103A2CC0 (1), tcp:031228_0054_0FEB73D56680B468 (1), tcp:031228_0055_0FEB73D6F1671C28 (1), tcp:031228_0056_0FEB73DA5A3D9338 (1), tcp:031228_0057_0FEB73DC0327B570 (1), tcp:031228_0058_0FEB73E261DEAF50 (1), tcp:031228_0059_0FEB73E3EDA64F50 (1), tcp:031228_0060_0FEB73E5CCF542C0 (1), tcp:031228_0061_0FEB73E8F3C860D0 (1), tcp:031228_0062_0FEB73EF58462450 (1), tcp:031228_0063_0FEB73F0E361D0C8 (1), tcp:031228_0064_0FEB73F2B7485BE8 (1), tcp:031228_0065_0FEB73F5ECE197F0 (1), tcp:031228_0066_0FEB73FC4A12FAC0 (1), tcp:031228_0067_0FEB73FDD47941B8 (1), tcp:031228_0068_0FEB740144660D88 (1), tcp:031228_0069_0FEB7402E5EEE830 (1), tcp:031228_0070_0FEB740940402DB0 (1), tcp:031228_0071_0FEB740ACBEF1D60 (1), tcp:031228_0072_0FEB740C75552AF0 (1), tcp:031228_0073_0FEB740FA633B190 (1), tcp:031228_0074_0FEB741613ED0748 (1), tcp:031228_0075_0FEB74179D20AA40 (1), tcp:031228_0076_0FEB741928E82330 (1), tcp:031228_0077_0FEB741C555F7F20 (1), tcp:031228_0078_0FEB742115FCCCA8 (1), tcp:031228_0079_0FEB7424343714A8 (1), tcp:031228_0080_0FEB74275B18C098 (1), tcp:031228_0081_0FEB742903E17C08 (1), tcp:031228_0082_0FEB742F53B0B1F8 (1), tcp:031228_0083_0FEB7430DCA684B8 (1), tcp:031228_0084_0FEB7432B6F36200 (1), tcp:031228_0085_0FEB7435F0B65E10 (1), tcp:031228_0086_0FEB743C4B8835A0 (1), tcp:031228_0087_0FEB743DD6046DC8 (1), tcp:031228_0088_0FEB743FA7ABE240 (1), tcp:031228_0089_0FEB7442EE86CFF8 (1), tcp:031228_0090_0FEB74494A4EAC00 (1), tcp:031228_0091_0FEB744AD5004438 (1), tcp:031228_0092_0FEB744C5E888358 (1), tcp:031228_0093_0FEB744F8C390B28 (1), tcp:031228_0094_0FEB7455DF20F6B0 (1), tcp:031228_0095_0FEB74576976DA58 (1), tcp:031228_0096_0FEB745AD9051EF0 (1), tcp:031228_0097_0FEB745DF86E1B20 (1), tcp:031228_0098_0FEB74611D3BD360 (1), tcp:031228_0099_0FEB758A42A63518 (1), tcp:031228_0100_0FEAF86B9A8696A0 (1), tcp:031228_0101_0FEAF86D5E9DEFB8 (1), tcp:031228_0102_0FEB7465DB94E9C0 (1), tcp:031228_0103_0FEB7467C7F4AEA0 (1), tcp:031228_0104_0FEB74695D5AF808 (1), tcp:031228_0105_0FEB746FAE932050 (1), tcp:031228_0106_0FEB74713737B248 (1), tcp:031228_0107_0FEB7472C70F28D0 (1), tcp:031228_0108_0FEB747655D0AFB0 (1), tcp:031228_0109_0FEB747980163F50 (1), tcp:031228_0110_0FEB747FE0D17570 (1), tcp:031228_0111_0FEB74819F84D900 (1), tcp:031228_0112_0FEB74832CB079B8 (1), tcp:031228_0113_0FEB74865E1AAE28 (1), tcp:031228_0114_0FEB748CAEDD7B78 (1), tcp:031228_0115_0FEB748E385B8168 (1), tcp:031228_0116_0FEB74904521B880 (1), tcp:031228_0117_0FEB7496CC4747B0 (1), tcp:031228_0118_0FEB749856A1BF38 (1), tcp:031228_0119_0FEB749A08434F88 (1), tcp:031228_0120_0FEB749D54674058 (1), tcp:031228_0121_0FEB74A3AD4EC528 (1), tcp:031228_0122_0FEB74A537EF5600 (1), tcp:031228_0123_0FEB74A6C8240F88 (1), tcp:031228_0124_0FEB74A9EFD18BF0 (1), tcp:031228_0125_0FEB74AD20B42D58 (1), tcp:031228_0126_0FEB74B3706B62C0 (1), tcp:031228_0127_0FEB74B55B9998F8 (1), tcp:031228_0128_0FEB74B6E64F76F0 (1), tcp:031228_0129_0FEB74BA365C59F0 (1), tcp:031228_0130_0FEB74C08ED804B0 (1), tcp:031228_0131_0FEB74C21A345408 (1), tcp:031228_0132_0FEB74C3B87936E0 (1), tcp:031228_0133_0FEB74C6EFCEC118 (1), tcp:031228_0134_0FEB74CD4CE8CF40 (1), tcp:031228_0135_0FEB74CED9642AF8 (1), tcp:031228_0136_0FEB74D0C51F2840 (1), tcp:031228_0137_0FEB74D71E7E5DB0 (1), tcp:031228_0138_0FEB74D8A8D13BE8 (1), tcp:031228_0139_0FEB74DA5AFF3970 (1), tcp:031228_0140_0FEB74DD867F8748 (1), tcp:031228_0141_0FEB74E3E0A68928 (1), tcp:031228_0142_0FEB74E56B855F68 (1), tcp:031228_0143_0FEB74E8DE60AC20 (1), tcp:031228_0144_0FEB74EC08E2AC68 (1), tcp:031228_0145_0FEB74EF2DF4D8C8 (1), tcp:031228_0146_0FEB74F255278318 (1), tcp:031228_0147_0FEB74F5D049FBA0 (1), tcp:031228_0148_0FEB74F79BB840A0 (1), tcp:031228_0149_0FEB74FE05829948 (1), tcp:031228_0150_0FEB74FF8E8E7890 (1), tcp:031228_0151_0FEB7502B01956D8 (1), tcp:031228_0152_0FEB7504434D2760 (1), tcp:031228_0153_0FEB750768D677C0 (1), tcp:031228_0154_0FEB750DC1D14948 (1), tcp:031228_0155_0FEB750FA2C79C38 (1), tcp:031228_0156_0FEB7511332AE850 (1), tcp:031228_0157_0FEB75145EE5F150 (1), tcp:031228_0158_0FEB751AC6188818 (1), tcp:031228_0159_0FEB751C7AFEEF90 (1), tcp:031228_0160_0FEB751E0B9BF838 (1), tcp:031228_0161_0FEB75246F917998 (1), tcp:031228_0162_0FEB7525FA2E39E0 (1), tcp:031228_0163_0FEB7527AC7DE480 (1), tcp:031228_0164_0FEB752ADE2E68F0 (1), tcp:031228_0165_0FEB752FB17FE7D0 (1), tcp:031228_0166_0FEB75330E5AF510 (1), tcp:031228_0167_0FEB753632AEAF88 (1), tcp:031228_0168_0FEB7537C813F288 (1), tcp:031228_0169_0FEB753957D96478 (1), tcp:031228_0170_0FEB754159CFBA20 (1), tcp:031228_0171_0FEB75432880C258 (1), tcp:031228_0172_0FEB7544CDC9C518 (1), tcp:031228_0173_0FEB7547F51226B0 (1), tcp:031228_0174_0FEB754E46BF5350 (1), tcp:031228_0175_0FEB755004AE1AD8 (1), tcp:031228_0176_0FEB755191FC2FE0 (1), tcp:031228_0177_0FEB7554C0939158 (1), tcp:031228_0178_0FEB755B1774D648 (1), tcp:031228_0179_0FEB755D0AB0CD18 (1), tcp:031228_0180_0FEB755E9582CE30 (1), tcp:031228_0181_0FEB7561C76BE700 (1), tcp:031228_0182_0FEB756824E8DA40 (1), tcp:031228_0183_0FEB756A134BF100 (1), tcp:031228_0184_0FEB756BB81A55D0 (1), tcp:031228_0185_0FEB75721F29F378 (1), tcp:031228_0186_0FEB7573A914E438 (1), tcp:031228_0187_0FEB7576E9F79F30 (1), tcp:031228_0188_0FEB757A17C47518 (1), tcp:031228_0189_0FEB757ED3557A68 (1), tcp:031228_0190_0FEB75805CE03E10 (1), tcp:031228_0191_0FEB7583D2632F10 (1), tcp:031228_0192_0FEB758572D52B18 (1), tcp:031228_0193_0FEAF869D73498F8 (1), tcp:031228_0194_0FEB758D624479E8 (1), tcp:031228_0195_0FEB7590DF060C10 (1), tcp:031228_0196_0FEB759280B57520 (1), tcp:031228_0197_0FEB7595D182BE08 (1), tcp:031228_0198_0FEB759C331C3698 (1), tcp:031228_0199_0FEB769FB0F76A68 (1), tcp:031228_0200_0FEAF876EE0BD398 (1), tcp:031228_0201_0FEAF878A158E938 (1), tcp:031228_0202_0FEB759E05963CA0 (1), tcp:031228_0203_0FEB759F9A3D50D0 (1), tcp:031228_0204_0FEB75A2EC266DE0 (1), tcp:031228_0205_0FEB75A475044BD0 (1), tcp:031228_0206_0FEB75A7C02F4590 (1), tcp:031228_0207_0FEB75ACE69E9CA8 (1), tcp:031228_0208_0FEB75AE854E6600 (1), tcp:031228_0209_0FEB75B6702BECA8 (1), tcp:031228_0210_0FEB75B7FA292130 (1), tcp:031228_0211_0FEB75B9F0C4C590 (1), tcp:031228_0212_0FEB75BD29B327D8 (1), tcp:031228_0213_0FEB75C1EE699B68 (1), tcp:031228_0214_0FEB75C514CEC458 (1), tcp:031228_0215_0FEB75C6A6BDF800 (1), tcp:031228_0216_0FEB75C9DC52B3B0 (1), tcp:031228_0217_0FEB75D04ABD92A0 (1), tcp:031228_0218_0FEB75D230749E08 (1), tcp:031228_0219_0FEB75D3C68C7F98 (1), tcp:031228_0220_0FEB75D6EB3C6F88 (1), tcp:031228_0221_0FEB75DD434C48B8 (1), tcp:031228_0222_0FEB75DECD0F5688 (1), tcp:031228_0223_0FEB75E05D268E10 (1), tcp:031228_0224_0FEB75E38E36D6F8 (1), tcp:031228_0225_0FEB75E9E7AFAB00 (1), tcp:031228_0226_0FEB75EBD701C158 (1), tcp:031228_0227_0FEB75ED870C0FD8 (1), tcp:031228_0228_0FEB75F3E25857D8 (1), tcp:031228_0229_0FEB75F56B515B00 (1), tcp:031228_0230_0FEB75F727968968 (1), tcp:031228_0231_0FEB75FA84B24540 (1), tcp:031228_0232_0FEB75FDD34B7400 (1), tcp:031228_0233_0FEB75FF60417240 (1), tcp:031228_0234_0FEB7605DC5192A0 (1), tcp:031228_0235_0FEB7607D19EAA78 (1), tcp:031228_0236_0FEB7609A0A20CB8 (1), tcp:031228_0237_0FEB76119A6E5798 (1), tcp:031228_0238_0FEB7613280AD6D8 (1), tcp:031228_0239_0FEB7614B4656FD8 (1), tcp:031228_0240_0FEB76164A427ED0 (1), tcp:031228_0241_0FEB761E44084D88 (1), tcp:031228_0242_0FEB761FF4084448 (1), tcp:031228_0243_0FEB7623197F1598 (1), tcp:031228_0244_0FEB7624A283F3E8 (1), tcp:031228_0245_0FEB762B03EEA720 (1), tcp:031228_0246_0FEB762C8D4C4818 (1), tcp:031228_0247_0FEB762FB84457B8 (1), tcp:031228_0248_0FEB763146FE5C08 (1), tcp:031228_0249_0FEB763475302E30 (1), tcp:031228_0250_0FEB76393864D420 (1), tcp:031228_0251_0FEB763B12882400 (1), tcp:031228_0252_0FEB763E38155490 (1), tcp:031228_0253_0FEB76448C49FB18 (1), tcp:031228_0254_0FEB764616247CD0 (1), tcp:031228_0255_0FEB7647AF7FC658 (1), tcp:031228_0256_0FEB76498CE83300 (1), tcp:031228_0257_0FEB7651CC92DB58 (1), tcp:031228_0258_0FEB765395357568 (1), tcp:031228_0259_0FEB76552F0483A8 (1), tcp:031228_0260_0FEB76588E988E98 (1), tcp:031228_0261_0FEB765EDDC429B8 (1), tcp:031228_0262_0FEB7660ADC69120 (1), tcp:031228_0263_0FEB7662495A4598 (1), tcp:031228_0264_0FEB76656DAE36C0 (1), tcp:031228_0265_0FEB766BCB154BA8 (1), tcp:031228_0266_0FEB766DB7C36BD0 (1), tcp:031228_0267_0FEB766F568B6878 (1), tcp:031228_0268_0FEB767285C0D2F8 (1), tcp:031228_0269_0FEB7677483B3168 (1), tcp:031228_0270_0FEB767A6C8FDA28 (1), tcp:031228_0271_0FEB767BF76B58F0 (1), tcp:031228_0272_0FEB767D8DA79EE8 (1), tcp:031228_0273_0FEB76858ADE70B0 (1), tcp:031228_0274_0FEB76877A49B508 (1), tcp:031228_0275_0FEB768918D6E300 (1), tcp:031228_0276_0FEB768AA6593320 (1), tcp:031228_0277_0FEB7692932DCA40 (1), tcp:031228_0278_0FEB769484328620 (1), tcp:031228_0279_0FEB7696394358F8 (1), tcp:031228_0280_0FEB769B021F0F70 (1), tcp:031228_0281_0FEB769C8ADD6328 (1), tcp:031228_0282_0FEAF870C01B3CA8 (1), tcp:031228_0283_0FEB76A1552F0110 (1), tcp:031228_0284_0FEB76A7BA6F3A80 (1), tcp:031228_0285_0FEB76AAE8A13EC0 (1), tcp:031228_0286_0FEB76ACAF01B100 (1), tcp:031228_0287_0FEB76AFE4021BF0 (1), tcp:031228_0288_0FEB76B30F685600 (1), tcp:031228_0289_0FEB76B965BDAEA0 (1)  •  @__n__ (270) : iv (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 50 (1), 51 (1), 52 (1), 53 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1), 94 (1), 95 (1), 96 (1), 98 (1), 99 (1), 100 (1), 101 (1), 102 (1), 103 (1), 104 (1), 105 (1), 106 (1), 107 (1), 108 (1), 109 (1), 110 (1), 111 (1), 112 (1), 113 (1), 114 (1), 115 (1), 116 (1), 117 (1), 118 (1), 119 (1), 120 (1), 121 (1), 122 (1), 123 (1), 124 (1), 125 (1), 126 (1), 127 (1), 128 (1), 129 (1), 130 (1), 131 (1), 132 (1), 133 (1), 134 (1), 135 (1), 136 (1), 138 (1), 139 (1), 140 (1), 141 (1), 142 (1), 143 (1), 144 (1), 146 (1), 147 (1), 148 (1), 149 (1), 150 (1), 151 (1), 152 (1), 153 (1), 154 (1), 155 (1), 156 (1), 157 (1), 158 (1), 159 (1), 160 (1), 161 (1), 162 (1), 163 (1), 164 (1), 165 (1), 166 (1), 167 (1), 168 (1), 169 (1), 170 (1), 171 (1), 172 (1), 173 (1), 174 (1), 175 (1), 176 (1), 177 (1), 179 (1), 180 (1), 181 (1), 182 (1), 183 (1), 184 (1), 185 (1), 186 (1), 187 (1), 188 (1), 189 (1), 190 (1), 191 (1), 192 (1), 194 (1), 195 (1), 196 (1), 197 (1), 198 (1), 199 (1), 200 (1), 201 (1), 202 (1), 203 (1), 204 (1), 205 (1), 206 (1), 207 (1), 208 (1), 209 (1), 210 (1), 211 (1), 212 (1), 213 (1), 214 (1), 215 (1), 216 (1), 217 (1), 218 (1), 219 (1), 220 (1), 221 (1), 222 (1), 223 (1), 224 (1), 225 (1), 226 (1), 227 (1), 228 (1), 229 (1), 230 (1), 231 (1), 232 (1), 233 (1), 234 (1), 235 (1), 237 (1), 238 (1), 239 (1), 240 (1), 242 (1), 243 (1), 244 (1), 245 (1), 246 (1), 247 (1), 248 (1), 249 (1), 250 (1), 251 (1), 252 (1), 253 (1), 254 (1), 255 (1), 256 (1), 257 (1), 258 (1), 259 (1), 260 (1), 261 (1), 262 (1), 263 (1), 264 (1), 265 (1), 266 (1), 267 (1), 268 (1), 269 (1), 270 (1), 271 (1), 272 (1), 273 (1), 274 (1), 275 (1), 276 (1), 277 (1), 278 (1), 279 (1), 280 (1), 282 (1)  •  @__rendition__ (2) : simple:additions (2)|
+|26.|__q__|26||
+|27.|__salute__|2||
+|28.|__signed__|2||
+|29.|__sp__|97||
+|30.|__speaker__|97||
+|31.|__stage__|7||
